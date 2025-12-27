@@ -52,9 +52,9 @@
 
 ## 📬 Kontak
 
-- 📧 Email: `taqimi@clasnet.id` *(opsional)*
-- 💼 LinkedIn: [linkedin.com/in/taqimi](https://linkedin.com/in/taqimi) *(opsional)*
-- 🌐 Website: [clasnet.id](https://clasnet.id) *(opsional)*
+- 📧 Email: `arif@clasnet.id` *(opsional)*
+- 💼 LinkedIn: [linkedin.com/in/arifsusilo](https://id.linkedin.com/in/arif-susilo)) *(opsional)*
+- 🌐 Website: [clasnet.co.id](https://clasnet.co.id) *(opsional)*
 
 > "Membangun solusi teknologi yang bermanfaat untuk pendidikan dan UMKM Indonesia."
 
