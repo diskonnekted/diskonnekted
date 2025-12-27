@@ -30,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=diskonnekted&theme=radical)
 ---
 
 ## 🌱 Saat Ini Saya Fokus Pada
