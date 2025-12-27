@@ -1,74 +1,64 @@
-<!--
-  Halo, saya Arif Susilo — pengembang dari Banjarnegara yang membangun sistem untuk UMKM, sekolah, dan desa.
-  Profil ini menggunakan gaya terminal hacker dengan animasi SVG.
--->
+```text
+██╗  ██╗ █████╗  ██████╗██╗  ██╗ ██████╗██╗   ██╗██████╗ ████████╗██╗███╗   ██╗ ██████╗ 
+██║  ██║██╔══██╗██╔════╝██║  ██║██╔════╝██║   ██║██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝ 
+███████║███████║██║     ███████║██║     ██║   ██║██████╔╝   ██║   ██║██╔██╗ ██║██║  ███╗
+██╔══██║██╔══██║██║     ██╔══██║██║     ██║   ██║██╔══██╗   ██║   ██║██║╚██╗██║██║   ██║
+██║  ██║██║  ██║╚██████╗██║  ██║╚██████╗╚██████╔╝██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+```
 
-<div align="center">
+<h1 align="center">:: ACCESS GRANTED ::</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;WELCOME+TO+CLASNET+CORE;BUILDING+FOR+LOCAL+IMPACT" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=USER:+diskonnekted;STATUS:+ACTIVE;CLEARANCE:+LEVEL+7;LOCATION:+Banjarnegara,+ID" alt="Typing SVG" />
+</p>
 
-  <h3>Arif Susilo • Full-Stack Developer • IoT Engineer</h3>
-  <p>📍 Banjarnegara, Indonesia | 🏢 Clasnet Group | 🌐 <a href="https://clasnet.co.id">clasnet.co.id</a></p>
+<pre>
+<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+└─$ whoami
+> <b>diskonnekted</b> — IoT Architect • Embedded Systems • Full-Stack Developer
+> Fokus: Early Warning System • Akuntansi Digital • EdTech untuk UMKM
 
-  <p>
-    <a href="https://github.com/diskonnekted?tab=repositories">
-      <img alt="Repos" src="https://img.shields.io/github/repo-visibility/diskonnekted/diskonnekted?label=Repos&color=blue" />
-    </a>
-    <a href="https://github.com/diskonnekted?tab=followers">
-      <img alt="Followers" src="https://img.shields.io/github/followers/diskonnekted?label=Followers&color=green" />
-    </a>
-    <a href="https://github.com/diskonnekted?tab=stars">
-      <img alt="Stars" src="https://img.shields.io/github/stars/diskonnekted?label=Stars&color=yellow" />
-    </a>
-  </p>
-</div>
+<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+└─$ ls -la /projects
+> 📁 <b>nxt-sijenggung</b>        — Sistem monitoring sungai berbasis ESP32
+> 📁 <b>clasnet-akuntansi</b>     — Aplikasi akuntansi grup lokal (XAMPP)
+> 📁 <b>prakerin-skb</b>           — Manajemen prakerin untuk SKB Banjarnegara
+> 📁 <b>lms-kejar-paket</b>       — LMS untuk program Kejar Paket B/C
+
+<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+└─$ cat /stack.txt
+> █ <b>Hardware:</b> ESP32 • STM32 • Arduino Portenta • LoRa • Sensor Geofisika  
+> █ <b>Backend:</b> PHP • Node.js • MySQL • Docker • ThingSpeak API  
+> █ <b>OS:</b> Arch Linux • Bash • systemd • i3wm  
+> █ <b>Tools:</b> Git • XAMPP • VS Code • PlatformIO • Ollama
+</pre>
 
 ---
 
-### 🖥️ `terminal@clasnet:~$` **Active Systems**
+### 🔒 Active Missions
 
-```text
-📁 dasbor-bencana-alam       → Dashboard real-time untuk mitigasi bencana desa
-📁 ESP32-Flood-Warning-System → Early Warning System berbasis sensor & web
-📁 Elementary-School-Website  → Website sekolah + integrasi anti-korupsi
-📁 perpustakaan               → Sistem perpustakaan dengan Open Library API
-📁 aplikasi-pbj-desa          → Digitalisasi pengadaan barang/jasa desa
-📁 posyandu-data-management   → Manajemen data kesehatan ibu & anak
-📁 Smart-Farm-Monitoring      → Otomasi pertanian berbasis IoT
-📁 12AX7-Logic-Circuit        → Simulator komputer vacuum tube vintage
+- 🛰️ **EWS Geofisika** — Bangun sistem peringatan dini bencana berbasis ESP32 + sensor tilt & hujan  
+- 💰 **Clasnet Group Finance** — Otomasi pembukuan terpusat untuk 3 CV dengan audit trail  
+- 📚 **Digitalisasi Pendidikan** — Platform LMS & manajemen prakerin untuk siswa TKJ/RPL  
+- 🌐 **ThingSpeak Integration** — Real-time dashboard monitoring lingkungan (Channel ID: 3179377)
 
-🛠️ stack@clasnet:~$ Tech Stack
+---
 
+### 📡 Network Status
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diskonnekted&bg_color=0D1117&text_color=00FF00&border_color=00FF00&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diskonnekted&bg_color=0D1117&text_color=00FF00&border_color=00FF00&layout=compact&theme=transparent" width="48%" />
+</p>
 
+---
 
+### 📬 Establish Secure Connection
 
+- 📧 Email: `taqimi [at] clasnet [dot] id`  
+- 🔗 LinkedIn: [linkedin.com/in/taqimi](https://linkedin.com/in/taqimi)  
+- 🌐 Web: [clasnet.id](https://clasnet.id)  
 
-
-
-
-
-
-🌱 mission@clasnet:~$ Current Focus
-🌊 Membangun sistem peringatan dini banjir & bencana berbasis ESP32 + LoRa
-💰 Mengembangkan aplikasi akuntansi lokal untuk multi-CV di Clasnet Group
-📚 Mendigitalisasi manajemen sekolah, posyandu, dan PBK desa
-🔬 Menjelajahi teori Methane Metauniverse (MMU) melalui simulasi tetrahedron & AI consciousness
-🏘️ Membuat teknologi yang sederhana, terjangkau, dan relevan untuk masyarakat lokal
-📊 stats@clasnet:~$ GitHub Stats
-
-
-
-
-
-📬 contact@clasnet:~$ Get in Touch
-🌐 Website: clasnet.co.id
-🧠 Personal: arifsusilo.com
-📧 Email: arif@clasnet.id
-💼 LinkedIn: linkedin.com/in/arif-susilo
-echo "Membangun teknologi untuk desa, sekolah, dan UMKM — bukan hanya untuk startup."
-
-
-Footer Typing
-
-```
+> ⚠️ **WARNING**: All systems are under active development. Unauthorized access prohibited.  
+> ✅ **Clearance verified. Session active.**
