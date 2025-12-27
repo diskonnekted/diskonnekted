@@ -1,64 +1,65 @@
 <!--
-  Halo! Selamat datang di profil GitHub saya 👋
-  Nama: Taqimi (diskonnekted)
-  Fokus: IoT, Akuntansi Digital, Pendidikan Teknologi
+██╗  ██╗ █████╗  ██████╗██╗  ██╗ ██████╗██╗   ██╗██████╗ ████████╗██╗███╗   ██╗ ██████╗ 
+██║  ██║██╔══██╗██╔════╝██║  ██║██╔════╝██║   ██║██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝ 
+███████║███████║██║     ███████║██║     ██║   ██║██████╔╝   ██║   ██║██╔██╗ ██║██║  ███╗
+██╔══██║██╔══██║██║     ██╔══██║██║     ██║   ██║██╔══██╗   ██║   ██║██║╚██╗██║██║   ██║
+██║  ██║██║  ██║╚██████╗██║  ██║╚██████╗╚██████╔╝██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+                                                                                        
 -->
 
-<h1 align="center">Hi 👋, I'm Diskonnekted</h1>
-<h3 align="center">Developer | IoT Enthusiast | EdTech Builder from Indonesia</h3>
+<h1 align="center">:: ACCESS GRANTED ::</h1>
 
 <p align="center">
-  <a href="https://github.com/diskonnekted?tab=repositories">
-    <img alt="GitHub Repos" src="https://img.shields.io/github/repo-visibility/diskonnekted/diskonnekted?label=Repo&color=blue" />
-  </a>
-  <a href="https://github.com/diskonnekted?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/diskonnekted?label=Followers&color=green" />
-  </a>
-  <a href="https://github.com/diskonnekted?tab=stars">
-    <img alt="Stars" src="https://img.shields.io/github/stars/diskonnekted?label=Stars&color=yellow" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=USER:+diskonnekted;STATUS:+ACTIVE;CLEARANCE:+LEVEL+7;LOCATION:+Banjarnegara,+ID" alt="Typing SVG" />
+</p>
+
+<pre>
+<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+└─$ whoami
+> <b>diskonnekted</b> — IoT Architect • Embedded Systems • Full-Stack Developer
+> Fokus: Early Warning System • Akuntansi Digital • EdTech untuk UMKM
+
+<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+└─$ ls -la /projects
+> 📁 <b>nxt-sijenggung</b>        — Sistem monitoring sungai berbasis ESP32
+> 📁 <b>clasnet-akuntansi</b>     — Aplikasi akuntansi grup lokal (XAMPP)
+> 📁 <b>prakerin-skb</b>           — Manajemen prakerin untuk SKB Banjarnegara
+> 📁 <b>lms-kejar-paket</b>       — LMS untuk program Kejar Paket B/C
+
+<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+└─$ cat /stack.txt
+> █ <b>Hardware:</b> ESP32 • STM32 • Arduino Portenta • LoRa • Sensor Geofisika  
+> █ <b>Backend:</b> PHP • Node.js • MySQL • Docker • ThingSpeak API  
+> █ <b>OS:</b> Arch Linux • Bash • systemd • i3wm  
+> █ <b>Tools:</b> Git • XAMPP • VS Code • PlatformIO • Ollama
+</pre>
+
+---
+
+### 🔒 Active Missions
+
+- 🛰️ **EWS Geofisika** — Bangun sistem peringatan dini bencana berbasis ESP32 + sensor tilt & hujan  
+- 💰 **Clasnet Group Finance** — Otomasi pembukuan terpusat untuk 3 CV dengan audit trail  
+- 📚 **Digitalisasi Pendidikan** — Platform LMS & manajemen prakerin untuk siswa TKJ/RPL  
+- 🌐 **ThingSpeak Integration** — Real-time dashboard monitoring lingkungan (Channel ID: 3179377)
+
+---
+
+### 📡 Network Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diskonnekted&bg_color=0D1117&text_color=00FF00&border_color=00FF00&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diskonnekted&bg_color=0D1117&text_color=00FF00&border_color=00FF00&layout=compact&theme=transparent" width="48%" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 📬 Establish Secure Connection
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
----
+- 📧 Email: `taqimi [at] clasnet [dot] id`  
+- 🔗 LinkedIn: [linkedin.com/in/taqimi](https://linkedin.com/in/taqimi)  
+- 🌐 Web: [clasnet.id](https://clasnet.id)  
 
-## 🌱 Saat Ini Saya Fokus Pada
-
-- 🏢 Membangun **sistem akuntansi terpusat** untuk Clasnet Group (CV Clasnet, CV Brayan Bumi Serayu, CV Teknosmart)
-- 🌍 Pengembangan **Early Warning System (EWS)** berbasis ESP32 untuk monitoring bencana
-- 📚 Membuat **aplikasi LMS dan manajemen prakerin** untuk SKB Banjarnegara
-- 📊 Integrasi **ThingSpeak** dan **LoRa** untuk sistem monitoring lingkungan
-
----
-
-## 📈 Statistik GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diskonnekted&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diskonnekted&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📬 Kontak
-
-- 📧 Email: `arif@clasnet.id` *(opsional)*
-- 💼 LinkedIn: [linkedin.com/in/arifsusilo](https://id.linkedin.com/in/arif-susilo)) *(opsional)*
-- 🌐 Website: [clasnet.co.id](https://clasnet.co.id) *(opsional)*
-
-> "Membangun solusi teknologi yang bermanfaat untuk pendidikan dan UMKM Indonesia."
-
----
-
-⭐ **Terima kasih telah mengunjungi profil saya!**  
-Jika Anda tertarik dengan proyek IoT atau sistem akuntansi lokal, jangan ragu untuk berkolaborasi!
+> ⚠️ **WARNING**: All systems are under active development. Unauthorized access prohibited.  
+> ✅ **Clearance verified. Session active.**
