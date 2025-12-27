@@ -4,7 +4,7 @@
   Fokus: IoT, Akuntansi Digital, Pendidikan Teknologi
 -->
 
-<h1 align="center">Hi 👋, I'm Taqimi</h1>
+<h1 align="center">Hi 👋, I'm Diskonnekted</h1>
 <h3 align="center">Developer | IoT Enthusiast | EdTech Builder from Indonesia</h3>
 
 <p align="center">
