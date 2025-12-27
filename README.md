@@ -14,10 +14,10 @@
 </p>
 
 <pre>
-<span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
+<span style="color:#00FF00;">┌──(diskonnekted㉿clasnet.org)-[~]</span>
 └─$ whoami
 > <b>diskonnekted</b> — IoT Architect • Embedded Systems • Full-Stack Developer
-> Fokus: Early Warning System • Akuntansi Digital • EdTech untuk UMKM
+> Fokus: Early Warning System • Tetrahedron AI • 12AX7 Logic Circuit
 
 <span style="color:#00FF00;">┌──(taqimi㉿clasnet)-[~]</span>
 └─$ ls -la /projects
