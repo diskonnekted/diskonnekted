@@ -1,29 +1,37 @@
 # Hi there, I'm Arif Susilo 👋
 
-I'm a **Digital Marketing enthusiast and a lifelong learner** in the world of Web Development. Currently focusing on how to build better digital experiences while expanding my technical skills.
+I'm an **IoT Architect & Full-Stack Developer** focused on bridging the gap between physical devices and digital intelligence. Currently building and learning in the space of Early Warning Systems and AI-driven IoT.
 
 ---
 
-### 🌱 What I'm currently learning
-- 💻 **Web Development:** Mastering the basics of HTML, CSS, and JavaScript.
-- 📊 **Digital Marketing:** Exploring data-driven strategies and SEO.
-- 🛠️ **Tools:** Learning how to use Git, GitHub, and WordPress more effectively.
+### 🌱 Currently Learning
+- **IoT & Embedded:** Deepening knowledge in ESP32, LoRa, and sensor integration.
+- **Backend:** Refining Go, PHP, and real-time data handling (WebSockets/MQTT).
+- **System Design:** Building scalable IoT ecosystems and AI simulators.
 
 ---
 
-### 🚀 My Goal
-To bridge the gap between marketing and technology, one project at a time. I'm documenting my learning journey here on GitHub and on my website.
-
-> 🌐 **Visit my website:** [arifsusilo.com](https://arifsusilo.com/)
+### 🛠️ Tech Stack & Tools
+`TypeScript` `Go` `PHP` `PostgreSQL` `InfluxDB` `Arduino` `Docker` `Astro` `TailwindCSS`
 
 ---
 
-### 🤝 Connect with Me
-I'm always open to learning from others and sharing what I've discovered:
-
-[![Website](https://img.shields.io/badge/Website-arifsusilo.com-blue?style=flat-square&logo=google-chrome)](https://arifsusilo.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif_Susilo-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arifsusilo)
+### 🚀 Projects & Work
+I'm documenting my journey and projects over at my personal website:
+> 🌐 **Portfolio:** [arifsusilo.com](https://arifsusilo.com/)
 
 ---
 
-*"Still learning, still growing."*
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifsusilo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=999999" alt="Arif's stats" height="150" />
+</p>
+
+---
+
+### 🤝 Connect
+[Website](https://arifsusilo.com/) / [LinkedIn](https://linkedin.com/in/arifsusilo) / [GitHub](https://github.com/arifsusilo) / [Instagram](https://instagram.com/arifsusilo)
+
+---
+
+*"Driving innovation with code & data, one sensor at a time."*
